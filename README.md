@@ -4,7 +4,7 @@ Hi, I’m Ebubechukwu Ogubunka, a passionate DevSecOps Engineer and Ethical Hack
 
 **🚀 About Me**
 
-🛡️ Focus Areas: DevSecOps, Cloud Security, and Cybersecurity.
+🛡️ Focus Areas: DevSecOps, Cloud Security, and Ethical Hacking.
 
 🌐 Cloud Skills: Proficient in AWS services like EC2, S3, CloudTrail, CloudWatch, GuardDuty, Security Hub, and Lambda.
 
